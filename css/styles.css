@@ -189,7 +189,7 @@ ul {
   color: #212121;
 }
 
-.pecularities {
+.section {
   padding: 94px 0;
 }
 
@@ -215,7 +215,6 @@ ul {
 }
 
 .wawd {
-  padding: 94px 0;
   padding-top: 0;
 }
 
@@ -242,10 +241,9 @@ ul {
 }
 
 .our-team {
-  padding: 94px 0;
-
   background: #f5f4fa;
 }
+
 .ourteam-description {
   width: 270px;
   padding: 30px 0;
@@ -331,10 +329,6 @@ ul {
 .footer-contact:focus,
 .footer-contact:hover {
   color: #2196f3;
-}
-
-.portfolio-body {
-  padding: 94px 0;
 }
 
 .portfolio-list {
